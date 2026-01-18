@@ -13,6 +13,4 @@ Aadhaar Resilience & Agentic Equity (RARE) Engine predicts and prevents Aadhaar 
 - UIDAI Aadhaar enrolment & update datasets
 - UPI, Power Consumption, NTL, MPI (2025 aligned)
 
-## How to Run
-pip install -r requirements.txt
-python src/ghost_gap_engine.py
+
