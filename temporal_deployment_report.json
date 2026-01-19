@@ -1,0 +1,13 @@
+{
+  "total_camps": 10,
+  "total_people_served": 10606,
+  "average_turnout": 0.7073491881365707,
+  "training_episodes": 1000,
+  "learned_strategy": "Deploy in high-turnout months (Apr, Oct) during weeks 2-3",
+  "key_insights": [
+    "April Week 3 optimal for migration-heavy states (post-harvest return)",
+    "October optimal for festival season (Diwali, Durga Puja)",
+    "Avoid June-July (monsoon) and May (extreme heat)",
+    "Week 3 generally best (optimal awareness, pre-month-end)"
+  ]
+}
