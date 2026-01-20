@@ -1,0 +1,111 @@
+{
+  "univariate_analysis": [
+    {
+      "Variable": "upi_per_capita",
+      "Mean": 4.258123274776869,
+      "Median": 0.0,
+      "Std Dev": 5.544273804714589,
+      "Min": 0.0,
+      "Max": 22.716049382716047,
+      "Q1": 0.0,
+      "Q3": 7.61628339958738,
+      "Skewness": 1.266498061615958,
+      "Kurtosis": 1.2527379035160098
+    },
+    {
+      "Variable": "mbu_per_capita",
+      "Mean": 0.016251911429671195,
+      "Median": 0.0209203839638622,
+      "Std Dev": 0.01497829908983184,
+      "Min": 0.0,
+      "Max": 0.0590277777777777,
+      "Q1": 0.0,
+      "Q3": 0.024523551494183372,
+      "Skewness": 0.4666653416560451,
+      "Kurtosis": -0.14098471974629279
+    },
+    {
+      "Variable": "ghost_gap_risk_score",
+      "Mean": 0.24509130434782608,
+      "Median": 0.0,
+      "Std Dev": 0.27140973521071377,
+      "Min": 0.0,
+      "Max": 0.7524,
+      "Q1": 0.0,
+      "Q3": 0.46947500000000003,
+      "Skewness": 0.37533127527674265,
+      "Kurtosis": -1.5622546381356166
+    },
+    {
+      "Variable": "infrastructure_gap_score",
+      "Mean": 0.21798260869565214,
+      "Median": 0.0,
+      "Std Dev": 0.2517378559836913,
+      "Min": 0.0,
+      "Max": 0.8143,
+      "Q1": 0.0,
+      "Q3": 0.404425,
+      "Skewness": 0.6170945097258841,
+      "Kurtosis": -0.9941031964169298
+    },
+    {
+      "Variable": "dms",
+      "Mean": 0.10554130434782608,
+      "Median": 0.0,
+      "Std Dev": 0.16664605416015632,
+      "Min": 0.0,
+      "Max": 0.7253,
+      "Q1": 0.0,
+      "Q3": 0.1892,
+      "Skewness": 1.6803048726476983,
+      "Kurtosis": 2.82069076117233
+    }
+  ],
+  "bivariate_analysis": {
+    "correlation_matrix": {
+      "upi_per_capita": {
+        "upi_per_capita": 1.0,
+        "mbu_per_capita": 0.480757,
+        "ghost_gap_risk_score": 0.940275,
+        "dms": 0.864025
+      },
+      "mbu_per_capita": {
+        "upi_per_capita": 0.480757,
+        "mbu_per_capita": 1.0,
+        "ghost_gap_risk_score": 0.483072,
+        "dms": 0.397425
+      },
+      "ghost_gap_risk_score": {
+        "upi_per_capita": 0.940275,
+        "mbu_per_capita": 0.483072,
+        "ghost_gap_risk_score": 1.0,
+        "dms": 0.79983
+      },
+      "dms": {
+        "upi_per_capita": 0.864025,
+        "mbu_per_capita": 0.397425,
+        "ghost_gap_risk_score": 0.79983,
+        "dms": 1.0
+      }
+    },
+    "upi_mbu_correlation": 0.4807573268361625,
+    "ghost_gap_vs_dms": 0.7998304861787986
+  },
+  "trivariate_analysis": {
+    "high_upi_low_mbu_ghost_rate": 0.2,
+    "high_upi_low_mbu_count": 5,
+    "critical_insight": "High UPI + Low MBU infrastructure = Highest Ghost-Gap probability"
+  },
+  "hypothesis_tests": {
+    "ghost_gap_vs_normal_upi": {
+      "t_statistic": 5.957816970534518,
+      "p_value": 0.0004624276566135819,
+      "significant": true
+    },
+    "ghost_gap_vs_normal_mbu": {
+      "t_statistic": 2.1458652053763307,
+      "p_value": 0.037634769533249596,
+      "significant": true
+    }
+  }
+}
