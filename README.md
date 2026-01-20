@@ -1,4 +1,4 @@
-# RARE-Engine
+# UIDAI Data Hackthon
 # RARE Engine
 
 Aadhaar Resilience & Agentic Equity (RARE) Engine predicts and prevents Aadhaar exclusion using agentic AI and economic demand signals.
