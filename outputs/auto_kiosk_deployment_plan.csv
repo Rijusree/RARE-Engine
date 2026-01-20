@@ -1,0 +1,11 @@
+district,saturation_rate,corridor_intensity,excess_population_est,kiosks_required,deployment_sites,priority
+TELANGANA,1.3476443161281313,0.3476443161281313,13627657,2728,"Railway Station, Market Area, Labor Hub, Bus Terminal, Industrial Zone",URGENT
+KERALA,1.32320935706109,0.3232093570610901,11570894,2317,"Market Area, Industrial Zone, Railway Station, Bus Terminal, Labor Hub",URGENT
+MAHARASHTRA,1.2996624029800619,0.29966240298006186,39270757,7857,"Industrial Zone, Railway Station, Market Area, Labor Hub, Bus Terminal",URGENT
+HIMACHAL PRADESH,1.2829243726106525,0.2829243726106525,2150225,433,"Bus Terminal, Industrial Zone, Labor Hub, Railway Station, Market Area",URGENT
+PUDUCHERRY,1.241476978998267,0.24147697899826692,0,2,"Industrial Zone, Market Area",URGENT
+GOA,1.1873770098617857,0.18737700986178574,303550,63,"Industrial Zone, Market Area, Bus Terminal, Labor Hub, Railway Station",HIGH
+KARNATAKA,1.0911503040862987,0.09115030408629865,6280255,1259,"Industrial Zone, Market Area, Bus Terminal, Railway Station, Labor Hub",HIGH
+ODISHA,1.085309050191813,0.08530905019181301,4077772,818,"Industrial Zone, Railway Station, Bus Terminal, Market Area, Labor Hub",HIGH
+JHARKHAND,1.0698253397128852,0.06982533971288518,2876803,578,"Market Area, Industrial Zone, Bus Terminal, Railway Station, Labor Hub",HIGH
+CHANDIGARH,1.0533422914293062,0.05334229142930624,0,2,"Bus Terminal, Railway Station",HIGH

@@ -1,0 +1,47 @@
+state,Population_2025_Millions,upi_per_capita,mbu_per_capita,centers_per_million,infrastructure_gap_score,infrastructure_gap_flag,infrastructure_narrative,ghost_gap_risk_proxy,ghost_gap_risk_score,ghost_gap_risk_narrative,dms,intervention_priority
+A&N ISLANDS ,0.42,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+ANDHRA PRADESH,54.2,9.505535055350554,0.024446494464944648,48.8929889298893,0.4717,0,⚡ MODERATE: Emerging capacity constraints,0,0.5233,📊 STABLE: No immediate Ghost-Gap risk indicators,0.3216,0.3951
+ARUNACHAL PRADESH,1.65,,0.03939393939393939,78.7878787878788,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+ASSAM,36.5,3.5287671232876714,0.01986301369863014,39.726027397260275,0.2884,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.382,📊 STABLE: No immediate Ghost-Gap risk indicators,0.1099,0.3925
+BIHAR,130.7,3.378729915837797,0.022532517214996176,45.06503442999235,0.2637,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.3516,📊 STABLE: No immediate Ghost-Gap risk indicators,0.0367,0.511
+CHANDIGARH,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+CHANDIGARH ,1.28,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+CHHATTISGARH,31.4,5.273885350318471,0.017834394904458598,35.6687898089172,0.3663,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.4557,📊 STABLE: No immediate Ghost-Gap risk indicators,0.1555,0.4072
+DAMAN AND DIU,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+DELHI,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+DELHI ,22.3,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+DNH & DAMAN DIU ,1.52,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+GOA,1.62,22.716049382716047,0.043209876543209874,86.41975308641975,0.8143,1,🚨 CRITICAL GAP: High digital demand (22.72 UPI/capita) with only 86.4 centers/million,0,0.7524,👁️ WATCH: Potential future Ghost-Gap if trends continue,0.7253,0.554
+GUJARAT,72.1,10.973647711511791,0.024549237170596393,49.09847434119279,0.5241,0,⚡ MODERATE: Emerging capacity constraints,0,0.5678,📊 STABLE: No immediate Ghost-Gap risk indicators,0.3312,0.4635
+HARYANA,30.8,10.155844155844155,0.02094155844155844,41.883116883116884,0.5205,0,⚡ MODERATE: Emerging capacity constraints,1,0.5772,🔮 HIGH GHOST-GAP RISK: Monitor for rapid UPI growth vs stagnant MBU updates,0.309,0.4422
+HIMACHAL PRADESH,7.6,9.68421052631579,0.031578947368421054,63.15789473684211,0.4266,0,⚡ MODERATE: Emerging capacity constraints,0,0.4601,📊 STABLE: No immediate Ghost-Gap risk indicators,,0.3165
+JAMMU & KASHMIR,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+JAMMU & KASHMIR ,14.2,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+JHARKHAND,41.2,3.572815533980582,0.0220873786407767,44.1747572815534,0.2739,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.3619,📊 STABLE: No immediate Ghost-Gap risk indicators,0.057,0.4813
+KARNATAKA,68.9,14.687953555878083,0.021625544267053702,43.251088534107396,0.6796,1,🚨 CRITICAL GAP: High digital demand (14.69 UPI/capita) with only 43.3 centers/million,1,0.7112,🔮 HIGH GHOST-GAP RISK: Monitor for rapid UPI growth vs stagnant MBU updates,0.3892,0.5528
+KERALA,35.8,11.307262569832403,0.023324022346368715,46.648044692737436,0.545,1,🚨 CRITICAL GAP: High digital demand (11.31 UPI/capita) with only 46.6 centers/million,0,0.59,📊 STABLE: No immediate Ghost-Gap risk indicators,0.3825,0.3956
+LADAKH ,0.31,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+LAKSHADWEEP ,0.07,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+MADHYA PRADESH,88.4,5.411764705882352,0.02251131221719457,45.02262443438914,0.3375,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.4149,📊 STABLE: No immediate Ghost-Gap risk indicators,0.1817,0.3896
+MAHARASHTRA,131.05,13.759633727584891,0.02334986646318199,46.69973292636398,0.6336,1,🚨 CRITICAL GAP: High digital demand (13.76 UPI/capita) with only 46.7 centers/million,0,0.6658,👁️ WATCH: Potential future Ghost-Gap if trends continue,0.3777,0.5333
+MANIPUR,3.3,,0.02727272727272727,54.54545454545455,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+MEGHALAYA,3.5,,0.027142857142857142,54.285714285714285,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+MIZORAM,1.3,,0.04230769230769231,84.61538461538461,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+NAGALAND,2.3,,0.03260869565217391,65.21739130434783,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+NE_STATES_AVG,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+ODISHA,47.8,5.774058577405858,0.022384937238493725,44.769874476987454,0.3515,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.4274,📊 STABLE: No immediate Ghost-Gap risk indicators,0.1917,0.3928
+OTHER_NE_STATES,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+OTHER_STATES_UTS,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+OTHER_UTS,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+PUDUCHERRY,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+PUDUCHERRY ,1.73,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+PUNJAB,31.2,10.615384615384615,0.021474358974358974,42.94871794871795,0.5333,1,🚨 CRITICAL GAP: High digital demand (10.62 UPI/capita) with only 42.9 centers/million,1,0.5863,🔮 HIGH GHOST-GAP RISK: Monitor for rapid UPI growth vs stagnant MBU updates,0.3338,0.4307
+RAJASTHAN,83.5,7.27185628742515,0.02251497005988024,45.02994011976048,0.4048,0,⚡ MODERATE: Emerging capacity constraints,0,0.4726,📊 STABLE: No immediate Ghost-Gap risk indicators,,0.4212
+SIKKIM,0.72,,0.059027777777777776,118.05555555555556,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+TAMIL NADU,77.8,10.6426735218509,0.02005141388174807,40.102827763496144,0.5446,1,🚨 CRITICAL GAP: High digital demand (10.64 UPI/capita) with only 40.1 centers/million,1,0.6009,🔮 HIGH GHOST-GAP RISK: Monitor for rapid UPI growth vs stagnant MBU updates,0.3541,0.3981
+TELANGANA,39.2,14.551020408163264,0.025255102040816328,50.51020408163265,0.6485,1,🚨 CRITICAL GAP: High digital demand (14.55 UPI/capita) with only 50.5 centers/million,0,0.672,👁️ WATCH: Potential future Ghost-Gap if trends continue,,0.5139
+TRIPURA,4.2,4.3809523809523805,0.025,50.0,0.2822,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.3589,📊 STABLE: No immediate Ghost-Gap risk indicators,,0.3301
+UTS_OTHERS,,,,,,0,✅ ADEQUATE: Infrastructure matches current demand,0,,📊 STABLE: No immediate Ghost-Gap risk indicators,,
+UTTAR PRADESH,241.3,4.041442188147534,0.017509324492333195,35.01864898466639,0.324,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.4206,📊 STABLE: No immediate Ghost-Gap risk indicators,0.0866,0.4515
+UTTARAKHAND,11.9,7.73109243697479,0.02689075630252101,53.78151260504202,0.3898,0,✅ ADEQUATE: Infrastructure matches current demand,0,0.4447,📊 STABLE: No immediate Ghost-Gap risk indicators,0.2811,0.3717
+WEST BENGAL,101.2,6.909090909090909,0.02089920948616601,41.798418972332016,0.4033,0,⚡ MODERATE: Emerging capacity constraints,0,0.4769,📊 STABLE: No immediate Ghost-Gap risk indicators,0.2303,0.3942
